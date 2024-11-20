@@ -1,0 +1,9 @@
+html {
+  color-scheme: dark;
+}
+
+body {
+  font-size: 1.125rem;
+  font-family: system-ui;
+  line-height: 1.5;
+}
