@@ -31,7 +31,8 @@ th {
     background: #B85042;
 }
 
-td {
+td:nth-of-type(6n), td:nth-of-type(4n) {
+    max-width: 250px;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
@@ -43,4 +44,40 @@ tr:nth-of-type(1n) {
 
 tr:nth-of-type(2n) {
     background: #E7E8D1;
+}
+
+@media (max-width: 1415px) {
+    th {
+        display: none;
+    }
+
+    td {
+        /*display: block;*/ /*another way*/
+        display: grid;
+        gap: 0.5rem;
+        grid-template-columns: 15ch auto;
+        padding: 0.5rem 1rem;
+    }
+
+    td::before {
+        content: attr(data-cell) ": ";
+        font-weight: 700;
+        text-transform: capitalize;
+    }
+
+    td:first-child {
+        padding-top: 2rem;
+    }
+
+    td:last-child {
+        padding-bottom: 2rem;
+    }
+
+    td:nth-of-type(6n), td:nth-of-type(4n) {
+        max-width: none;
+        text-overflow: initial;
+        overflow: initial;
+        white-space: initial;
+        word-break: break-all;
+    }
 }

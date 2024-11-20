@@ -32,16 +32,18 @@ export default function Table(): JSX.Element {
                     <th>Opening Date</th>
                     <th>Mail</th>
                     <th>Phone</th>
+                    <th>Website</th>
                 </tr>
                 {
                     companies.map((companie, position) => {
                         return (
                             <tr key={position}>
-                                <td data-cell="name">{companie.name}</td>
-                                <td data-cell="document">{companie.document}</td>
-                                <td data-cell="openingDate">{companie.openingDate}</td>
-                                <td data-cell="mail">{companie.mail}</td>
-                                <td data-cell="phone">{companie.phone}</td>
+                                <td title={companie.name} data-cell="name">{companie.name}</td>
+                                <td title={companie.document} data-cell="document">{companie.document}</td>
+                                <td title={companie.openingDate} data-cell="openingDate">{companie.openingDate}</td>
+                                <td title={companie.mail} data-cell="mail">{companie.mail}</td>
+                                <td title={companie.phone} data-cell="phone">{companie.phone}</td>
+                                <td title={companie.website} data-cell="website">{companie.website}</td>
                             </tr>
                         )
                     })
