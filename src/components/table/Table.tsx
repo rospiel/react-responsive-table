@@ -32,7 +32,6 @@ export default function Table(): JSX.Element {
                     <th>Opening Date</th>
                     <th>Mail</th>
                     <th>Phone</th>
-                    <th>Website</th>
                 </tr>
                 {
                     companies.map((companie, position) => {
@@ -43,7 +42,6 @@ export default function Table(): JSX.Element {
                                 <td data-cell="openingDate">{companie.openingDate}</td>
                                 <td data-cell="mail">{companie.mail}</td>
                                 <td data-cell="phone">{companie.phone}</td>
-                                <td data-cell="website">{companie.website}</td>
                             </tr>
                         )
                     })
