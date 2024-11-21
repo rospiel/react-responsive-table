@@ -35,7 +35,7 @@ export default function Table(): JSX.Element {
                     <th>Website</th>
                 </tr>
                 {
-                    companies.slice(0, 10).map((companie, position) => {
+                    companies.slice(0, 30).map((companie, position) => {
                         return (
                             <tr key={position}>
                                 <td title={companie.name} data-cell="name">{companie.name}</td>

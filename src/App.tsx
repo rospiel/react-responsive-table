@@ -1,12 +1,12 @@
 import './App.css'
-import TableBodyScroll from './components/table_body_scroll/TableBodyScroll'
+import Table from './components/table/Table'
 
 function App() {
   
 
   return (
     <>
-      <TableBodyScroll />    
+      <Table />    
     </>
   )
 }

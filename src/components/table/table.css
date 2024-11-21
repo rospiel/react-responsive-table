@@ -29,6 +29,8 @@ caption {
 
 th {
     background: #B85042;
+    position: sticky;
+    top: -1px;
 }
 
 td:nth-of-type(6), td:nth-of-type(4) {

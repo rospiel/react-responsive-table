@@ -238,5 +238,485 @@
         "mail": "contabilidade@isabellaepietroeletronicame.com.br",
         "phone": "1128780821",
         "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
+    },
+    {
+        "name": "Benedita e Liz Telecomunicações Ltda",
+        "document": "95273539000120",
+        "openingDate": "17/07/2019",
+        "mail": "contato@beneditaeliztelecomunicacoesltda.com.br",
+        "phone": "1926004039",
+        "website": "www.beneditaeliztelecomunicacoesltda.com.br"
+    }, 
+    {
+        "name": "Melissa e Isabelle Corretores Associados Ltda",
+        "document": "80911235000174",
+        "openingDate": "11/07/2019",
+        "mail": "ti@melissaeisabellecorretoresassociadosltda.com.br",
+        "phone": "1127771561",
+        "website": "www.melissaeisabellecorretoresassociadosltda.com.br"
+    },
+    {
+        "name": "Tomás e Bryan Telas ME",
+        "document": "48009977000104",
+        "openingDate": "16/03/2019",
+        "mail": "producao@tomasebryantelasme.com.br",
+        "phone": "1537306423",
+        "website": "www.tomasebryantelasme.com.br"
+    },
+    {
+        "name": "José e Tiago Doces & Salgados ME",
+        "document": "20426412000103",
+        "openingDate": "14/08/2019",
+        "mail": "contabil@joseetiagodocessalgadosme.com.br",
+        "phone": "1137005927",
+        "website": "www.joseetiagodocessalgadosme.com.br"
+    },
+    {
+        "name": "Luna e Pedro Telecomunicações ME",
+        "document": "30597807000114",
+        "openingDate": "06/12/2019",
+        "mail": "tesouraria@lunaepedrotelecomunicacoesme.com.br",
+        "phone": "1839417915",
+        "website": "www.lunaepedrotelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Raul e Sandra Publicidade e Propaganda ME",
+        "document": "71075165000170",
+        "openingDate": "10/04/2019",
+        "mail": "suporte@raulesandrapublicidadeepropagandame.com.br",
+        "phone": "1139513224",
+        "website": "www.raulesandrapublicidadeepropagandame.com.br"
+    },
+    {
+        "name": "Pedro Henrique e Raimundo Marketing Ltda",
+        "document": "38944028000150",
+        "openingDate": "07/06/2019",
+        "mail": "orcamento@pedrohenriqueeraimundomarketingltda.com.br",
+        "phone": "1127541515",
+        "website": "www.pedrohenriqueeraimundomarketingltda.com.br"
+    },
+    {
+        "name": "Eduardo e Amanda Telecomunicações ME",
+        "document": "25515330000140",
+        "openingDate": "20/01/2019",
+        "mail": "sistema@eduardoeamandatelecomunicacoesme.com.br",
+        "phone": "1236269549",
+        "website": "www.eduardoeamandatelecomunicacoesme.com.br"
+    },
+    {
+        "name": "Sebastiana e César Comercio de Bebidas Ltda",
+        "document": "39073877000148",
+        "openingDate": "16/02/2019",
+        "mail": "almoxarifado@sebastianaecesarcomerciodebebidasltda.com.br",
+        "phone": "1125842971",
+        "website": "www.sebastianaecesarcomerciodebebidasltda.com.br"
+    },
+    {
+        "name": "Isabella e Pietro Eletrônica ME",
+        "document": "64168957000124",
+        "openingDate": "16/02/2019",
+        "mail": "contabilidade@isabellaepietroeletronicame.com.br",
+        "phone": "1128780821",
+        "website": "www.isabellaepietroeletronicame.com.br"
     }
 ]
